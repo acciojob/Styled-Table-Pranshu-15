@@ -1,1 +1,15 @@
 /* your code */
+table{
+	border: 2px solid black;
+	border-radius : 10px;
+	background:#cfbed7;
+	color:black;
+}
+
+th{
+	border-radius:20px;
+	padding:10px;
+}
+td{
+	
+}
